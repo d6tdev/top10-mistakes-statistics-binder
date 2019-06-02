@@ -4,7 +4,7 @@ Blog post available at https://github.com/d6t/d6t-python/blob/master/blogs/top10
 
 ## Structure
 
-`index.ipynb`: results notebook  
+`visualize.ipynb`: results notebook  
 `task.py`: tasks for generating data and models  
 `cfg.py`: parameters  
 `run.py`: execute workflow tasks and push data  
