@@ -1,4 +1,4 @@
-d6tpipe>=1.2.3
+d6tpipe>=1.2.4
 d6tflow>=0.1.5
 scikit-learn
 pandas
