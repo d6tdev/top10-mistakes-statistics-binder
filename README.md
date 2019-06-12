@@ -10,3 +10,5 @@ Blog post available at https://github.com/d6t/d6t-python/blob/master/blogs/top10
 `run.py`: execute workflow tasks and push data  
 
 The structure follows the d6tflow template for scalable data science projects available at https://github.com/d6t/d6tflow-template. It also makes use of d6tpipe to quickly share data to go with data science code see https://d6tflow.readthedocs.io/en/latest/collaborate.html
+
+Interactive results notebook at http://tiny.cc/top10-mistakes-stats-bind
